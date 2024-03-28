@@ -1,7 +1,17 @@
-.bg-red {
+.red {
     background-color: red;
+    color: white;
 }
 
-.bg-blue {
+.blue {
     background-color: blue;
+    color: white;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: ;
+    margin: 0 auto;
+    max-width: 1500px;
 }
